@@ -3128,3 +3128,12 @@
 				}
 
 	}
+
+
+	/* Custom Design */
+
+	.Slide-Show {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
